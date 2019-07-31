@@ -11,4 +11,6 @@ NOTE: As of 7/31/19 this package is not functioning yet
 * AWS.APIGateway.createApiKey (in progress)
 
 ## Install
-`npm install @printtracker/aws-rxjs`
+```
+npm install @printtracker/aws-rxjs
+```
